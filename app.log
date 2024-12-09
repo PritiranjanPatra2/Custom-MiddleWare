@@ -1,0 +1,16 @@
+[2024-12-09T18:29:43.776Z] GET / ::::1 - Status: 200, Response Time: 10ms
+[2024-12-09T18:31:11.844Z] POST /add ::::1 - Status: 201, Response Time: 1ms
+[2024-12-09T18:31:25.710Z] PUT /update/abscm234cmks ::::1 - Status: 200, Response Time: 1ms
+[2024-12-09T18:31:33.977Z] DELETE /delete/abscm234cmks ::::1 - Status: 204, Response Time: 3ms
+[2024-12-09T18:33:15.544Z] GET / ::::1 - Status: 200, Response Time: 6ms
+[2024-12-09T18:33:23.842Z] POST /add ::::1 - Status: 201, Response Time: 1ms
+[2024-12-09T18:35:12.984Z] GET / ::::1 - Status: 200, Response Time: 8ms
+[2024-12-09T18:36:45.657Z] POST /add ::::1 - Status: 201, Response Time: 2ms
+[2024-12-09T18:37:03.432Z] PUT /update/item123 ::::1 - Status: 200, Response Time: 3ms
+[2024-12-09T18:38:15.874Z] DELETE /delete/item123 ::::1 - Status: 204, Response Time: 4ms
+[2024-12-09T18:39:27.921Z] GET / ::::1 - Status: 200, Response Time: 5ms
+[2024-12-09T18:40:34.652Z] POST /add ::::1 - Status: 201, Response Time: 1ms
+[2024-12-09T18:41:12.547Z] PUT /update/abc123xyz ::::1 - Status: 200, Response Time: 2ms
+[2024-12-09T18:42:39.891Z] DELETE /delete/abc123xyz ::::1 - Status: 204, Response Time: 3ms
+[2024-12-09T18:43:47.238Z] GET / ::::1 - Status: 200, Response Time: 7ms
+[2024-12-09T18:44:59.634Z] POST /add ::::1 - Status: 201, Response Time: 2ms
